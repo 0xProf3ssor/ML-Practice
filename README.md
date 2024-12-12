@@ -18,7 +18,7 @@ This repository is a collection of my practice projects and experiments as I lea
 This repository is organized into folders based on the topics or algorithms I am working on:
 
 ML-Practice/ <br>
-    ├── Linear_Regression/ # Practice and experiments with linear regression <br>
+    ├── Regression/ # Practice and experiments with linear regression <br>
     ├── Logistic_Regression/ # Practice and experiments with logistic regression <br>
     ├── Datasets/ # Datasets used in the projects <br>
     ├── Utils/ # Reusable helper scripts or functions <br>
